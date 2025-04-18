@@ -1,0 +1,6 @@
+git init
+git add
+git commit -m "Primeiro commit do app OCR"
+git branch -M main
+git remote add origin https://github.com/profcarreiro/simulado-ocr.git
+git push -u origin main
